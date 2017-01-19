@@ -1,4 +1,4 @@
-# unit6/vezxcvbn 
+# unit6/zxcvbn 
 
 A basic PHP Implementation of the password strength estimator by [Dropbox][0].
 
